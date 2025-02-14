@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I am a student studying compputer science in the UK. I'm cuurently working on a text based dungeon adventure game in python.
 
 <!--
 **thenewdevkid/thenewdevkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
